@@ -82,6 +82,32 @@ You can make calls or create transactions to the smart contract with some simple
 
 
 
+RESULTS
+------------
+
+* Intial Bid by index-1
+  <img width="931" alt="initial bid" src="https://user-images.githubusercontent.com/46106443/153549715-d7d9e044-1098-4801-98d1-a1cc88d56dd3.png">
+  
+* Higher Bid by idex-2
+ <img width="963" alt="index 2 make highest bid" src="https://user-images.githubusercontent.com/46106443/153550001-6b6cc1c9-4446-4cfe-81d3-d118e5cf480d.png">
+
+* Withdrawal by index-1
+<img width="742" alt="withdrawal by 1" src="https://user-images.githubusercontent.com/46106443/153550051-cf80ea40-4145-4a62-a902-af3e45724804.png">
+
+* Balance of index-0 before auctionEnd
+<img width="1440" alt="before auction ends" src="https://user-images.githubusercontent.com/46106443/153550122-a2275d3c-eef3-4c2b-810e-a46632c48939.png">
+
+* auctionEnd command by index-0
+<img width="746" alt="auctionend command" src="https://user-images.githubusercontent.com/46106443/153550159-6b1572b9-8e97-4ac3-aa2d-4dffcb00939e.png">
+
+* Balance of index-0 after auctionEnd
+<img width="1440" alt="after auction ends" src="https://user-images.githubusercontent.com/46106443/153550243-e8410aae-2981-424f-9459-31118c9bd56f.png">
+
+
+
+
+
+
 
 
 
